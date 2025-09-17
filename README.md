@@ -16,11 +16,12 @@
       <td>1</td>
       <td><b>Installing Linux operating system to your computer.</b></td>
       <td> 
-        <b>*</b> If you use Windows OS, then pick one of the options below: <br> 
-        <b>-</b> You can install WSL: Windows Subsystem for Linux (Ubuntu for instance). <br> 
-        <b>-</b> You can install Virtualbox by Oracle, and then Linux (Ubuntu for example) <br>
-        <b>-</b> You can divide your hard disk, and install Linux into new partition.<br> 
-        <b>--</b> Show that you havw successfully installed a Linux operationg system into your local computer by executing at least 3 shell commands: 'ls', 'xclock' and 'xeyes', etc. 
+        If you have a Windows installed computer, then pick one of the options below: <br> 
+        <b>-</b> You can install WSL: Windows Subsystem for Linux. <br> 
+        <b>-</b> You can install VirtualBox by Oracle, and then Linux. <br>
+        <b>-</b> You can divide your hard disk, and install Linux into new partition.<br>
+        <b>-</b> Or you can remove Windows by formatting your hard disk, and install Linux.<br>
+        Show that you have successfully installed a Linux operationg system into your local computer by executing at least 3 shell commands: 'ls', 'xclock' and 'xeyes', etc. 
       </td>
       <td>6 March 2025</td>
       <td><a href="pro1.pdf">Project1</a></td>
