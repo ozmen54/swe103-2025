@@ -43,9 +43,8 @@
       <td>3</td>
       <td><b>Creating Cloud account on AWS or Azure.</b></td>
       <td>
-        <b>a)</b> .<br>
-        <b>b)</b>  <br>
-        <b>c)</b><br>
+        <b>a)</b> Login your cloud account.<br>
+        <b>b)</b> Show us that you can execute at least three shell commands on the cloud computer. <br>
       </td>
       <td>18 Nov 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
@@ -55,9 +54,9 @@
       <td><b>Running a web server on cloud</b></td>
       <td>
         <b>a)</b> Install Nginx on cloud.<br>
-        <b>b)</b> Create a html web page on your local computer. <br>      
-        <b>c)</b> FTP your web page file to the cloud <br>
-        <b>d)</b> Access your web page from your local computer.<br>
+        <b>b)</b> Create an html web page on your local computer, save it as "index.html". <br>      
+        <b>c)</b> FTP your "index.html" file to the cloud. Move it proper location. <br>
+        <b>d)</b> Show that your web page is accessible from your local computer.<br>
       </td>
       <td>16 Dec 2025<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
@@ -73,9 +72,3 @@
 * All group members are expected on the board while presenting. Absent members will be penalized according to excuse.
 * Group members help each other to hook their computer to the projector quickly.
 * Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
-
-
-1. Cloud publishing: Running jar file on AWS Cloud
-2. Virtualization: Publishing application on AWS using Docker-Compose
-3. Continuous deployment: Deploy pipeline using Jenkins
-
