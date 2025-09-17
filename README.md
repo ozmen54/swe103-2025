@@ -28,32 +28,30 @@
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Deployment with Docker-Compose.</b></td>
+      <td><b>Creating GitHub account.</b></td>
       <td>
-        <b>a)</b> Build the app. in jar on your local computer using Gradle or Maven.<br> 
-        <b>b)</b> Put your app into Docker container and push it to Docker Hub.<br> 
-        <b>c)</b> Create EC2 instance on AWS or VM on Azure.<br>
-        <b>d)</b> Pull the uploded app image and available latest DB (Postgres or MySql) image from Docker Hub.<br>
-        <b>e)</b> Install Nginx as proxy web server.<br>
-        <b>f)</b> Run your app with all components. <br>
-        <b>g)</b> Start Nginx web server and show that your app is accessible from given public IP and port 80.
+        <b>a)</b> Login your GitHub account.<br> 
+        <b>b)</b> Create a simple "Readme.md" file using Mark-Up language.<br> 
+        <b>c)</b> Create a remote repository on GitHub.<br>
+        <b>d)</b> Push your application (a simple C++ code) to your GitHub repository.<br>
+        <b>e)</b> Clone a project from GitHub to your local computer.<br>
       </td>
-      <td>10 April 2025<br></td>
+      <td>28 October 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Github workflow actions CI/CD pipeline.</b></td>
+      <td><b>Creating Cloud account on AWS or Azure.</b></td>
       <td>
-        <b>a)</b> Have a web app with Dockerfile in your local computer.<br>
-        <b>b)</b> Create a Github workflow-action pipeline on Github that do the following tasks triggered by <i>push</i> or <i>pull request</i> events: <br>
+        <b>a)</b> .<br>
+        <b>b)</b>  <br>
           - Build the jar file on GitHub. <br>
           - Build a containerized image on GitHub. <br>
           - Login to Dockerhub and a deploy cloud automatically.<br>
           - Push the image file to the DockerHub and copy the JAR file to the cloud.<br>
         <b>c)</b> Show that your CI/CD pipeline works as expected.<br>
       </td>
-      <td>8 May 2025<br></td>
+      <td>18 November 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
