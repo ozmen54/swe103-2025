@@ -23,7 +23,7 @@
         <b>-</b> Or you can remove Windows by formatting your hard disk, and install Linux.<br>
         Show that you have successfully installed a Linux operationg system into your local computer by executing at least 3 shell commands. 
       </td>
-      <td>7 October 2025</td>
+      <td>7 Oct 2025</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -36,7 +36,7 @@
         <b>d)</b> Push your application (a simple C++ code) to your GitHub repository.<br>
         <b>e)</b> Clone a project from GitHub to your local computer.<br>
       </td>
-      <td>28 October 2025<br></td>
+      <td>28 Oct 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -45,26 +45,21 @@
       <td>
         <b>a)</b> .<br>
         <b>b)</b>  <br>
-          - Build the jar file on GitHub. <br>
-          - Build a containerized image on GitHub. <br>
-          - Login to Dockerhub and a deploy cloud automatically.<br>
-          - Push the image file to the DockerHub and copy the JAR file to the cloud.<br>
-        <b>c)</b> Show that your CI/CD pipeline works as expected.<br>
+        <b>c)</b><br>
       </td>
-      <td>18 November 2025<br></td>
+      <td>18 Nov 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
       <td>4</td>
-      <td><b>Publishing on Kubernetes cluster.</b></td>
+      <td><b>Running a web server on cloud</b></td>
       <td>
-        <b>a)</b> Install Jenkins on your local computer.<br>
-        <b>b)</b> Install Minikube K8s on your local computer. <br>      
-        <b>c)</b> Create a CI-CD pipeline as described in homework documentation. <br>
-        <b>d)</b> Run your application on local Kubernetes cluster.<br>
-        <b>e)</b> Show that your application runs as expected.<br>
+        <b>a)</b> Install Nginx on cloud.<br>
+        <b>b)</b> Create a html web page on your local computer. <br>      
+        <b>c)</b> FTP your web page file to the cloud <br>
+        <b>d)</b> Access your web page from your local computer.<br>
       </td>
-      <td>22 May 2025<br></td>
+      <td>16 Dec 2025<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
   </body>
