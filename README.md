@@ -21,9 +21,9 @@
         <b>-</b> You can install VirtualBox by Oracle, and then Linux. <br>
         <b>-</b> You can divide your hard disk, and install Linux into new partition.<br>
         <b>-</b> Or you can remove Windows by formatting your hard disk, and install Linux.<br>
-        Show that you have successfully installed a Linux operationg system into your local computer by executing at least 3 shell commands: 'ls', 'xclock' and 'xeyes', etc. 
+        Show that you have successfully installed a Linux operationg system into your local computer by executing at least 3 shell commands. 
       </td>
-      <td>6 March 2025</td>
+      <td>7 October 2025</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
