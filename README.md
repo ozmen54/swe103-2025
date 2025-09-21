@@ -36,7 +36,7 @@
         <b>d)</b> Push your application (a simple C++ code) to your GitHub repository.<br>
         <b>e)</b> Clone a project from GitHub to your local computer.<br>
       </td>
-      <td>28 Oct 2025<br></td>
+      <td>04 Nov 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -46,7 +46,7 @@
         <b>a)</b> Login your cloud account.<br>
         <b>b)</b> Show us that you can execute at least three shell commands on the cloud computer. <br>
       </td>
-      <td>18 Nov 2025<br></td>
+      <td>25 Nov 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
@@ -58,7 +58,7 @@
         <b>c)</b> FTP your "index.html" file to the cloud. Move it proper location. <br>
         <b>d)</b> Show that your web page is accessible from your local computer.<br>
       </td>
-      <td>16 Dec 2025<br></td>
+      <td>23 Dec 2025<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
   </body>
