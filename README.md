@@ -14,7 +14,7 @@
   <body>
     <tr>
       <td>1</td>
-      <td><b>Installing Linux operating system to your computer.</b></td>
+      <td><b>Installing Linux operating system to your computer</b></td>
       <td> 
         If you have a Windows installed computer, then pick one of the options below: <br> 
         <b>-</b> You can install WSL: Windows Subsystem for Linux. <br> 
@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Creating GitHub account.</b></td>
+      <td><b>Creating a GitHub account</b></td>
       <td>
         <b>a)</b> Login your GitHub account.<br> 
         <b>b)</b> Create a simple "Readme.md" file using Mark-Up language.<br> 
@@ -41,10 +41,10 @@
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Creating Cloud account on AWS or Azure.</b></td>
+      <td><b>Creating Cloud account on AWS or Azure</b></td>
       <td>
         <b>a)</b> Login your cloud account.<br>
-        <b>b)</b> Show us that you can execute at least three shell commands on the cloud computer. <br>
+        <b>b)</b> Show us that you can execute at least three shell commands on the cloud computer.<br>
       </td>
       <td>25 Nov 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
