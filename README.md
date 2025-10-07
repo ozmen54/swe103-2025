@@ -36,7 +36,7 @@
         <b>d)</b> Push your application (a simple C++ code) to your GitHub repository.<br>
         <b>e)</b> Clone a project from GitHub to your local computer.<br>
       </td>
-      <td>04 Nov 2025<br></td>
+      <td>21 Oct 2025<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
