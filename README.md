@@ -30,10 +30,10 @@
       <td>2</td>
       <td><b>Creating a GitHub account</b></td>
       <td>
-        <b>a)</b> Login your GitHub account.<br> 
-        <b>b)</b> Create a simple "Readme.md" file using Mark-Up language.<br> 
-        <b>c)</b> Create a remote repository on GitHub.<br>
-        <b>d)</b> Push your application (a simple C++ code) to your GitHub repository.<br>
+        <b>a)</b> Create a GitHub account.<br> 
+        <b>b)</b> Create a remote repository on GitHub.<br> 
+        <b>c)</b> Create a simple C++ code on your local computer, stage and commit it.<br>
+        <b>d)</b> Push your code to the GitHub repository.<br>
         <b>e)</b> Clone a project from GitHub to your local computer.<br>
       </td>
       <td>21 Oct 2025<br></td>
