@@ -48,8 +48,8 @@
         <b>c)</b> Create and download secure communication keys.<br>
         <b>d)</b> Open up a terminal on the cloud instance.<br>
         <b>e)</b> Show us that you can execute at least three shell commands on the cloud computer.<br>
-        <b>g)</b> Monitor instance activities on the browser.<br>
-        <b>h)</b> Terminate open services on the cloud.<br>
+        <b>f)</b> Monitor instance activities on the browser.<br>
+        <b>g)</b> Terminate open services on the cloud.<br>
       </td>
       <td>25 Nov 2025<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
