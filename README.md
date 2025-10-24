@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Creating Cloud account on AWS or Azure</b></td>
+      <td><b>Creating a cloud account on AWS or Azure</b></td>
       <td>
         <b>a)</b> Login your cloud account.<br>
         <b>b)</b> Configure communication and instance parameters.<br>
